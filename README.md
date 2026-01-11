@@ -1,4 +1,4 @@
-# angular-app
+# angular-starter-basic
 
 A angular-app project
 
@@ -10,8 +10,8 @@ A angular-app project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/angular-app.git
-cd angular-app
+git clone https://github.com/amitdubeyup/angular-starter-basic.git
+cd angular-starter-basic
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-angular-app/
+angular-starter-basic/
 ├── .env.example
 ├── README.md
 ```
