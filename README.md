@@ -1,7 +1,5 @@
 # Angular Starter Basic
 
-
-
 ## 📝 About The Project
 Clean, modular Angular boilerplate configured with best practices for rapid application bootstrapping.
 
@@ -11,9 +9,6 @@ Clean, modular Angular boilerplate configured with best practices for rapid appl
 
 ## 🛠️ Tech Stack
 *   **HTML5/CSS3**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Clean, modular Angular boilerplate configured with best practices for rapid appl
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
